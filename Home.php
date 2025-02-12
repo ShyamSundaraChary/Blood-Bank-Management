@@ -11,7 +11,6 @@
 </head>
 <body class="vh-100 overflow-x-hidden">
   <?php include("shortcode/nav.php")  ?>
-
   <div id="carouselExampleCaptions" class="carousel slide carousel-fade  wow fadeInUp"data-wow-delay="0.1s">
     <div class="carousel-indicators">
       <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
