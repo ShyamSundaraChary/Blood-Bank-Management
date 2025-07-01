@@ -1,4 +1,4 @@
-# 🩸 RTP Blood Bank Management System
+# 🩸 Blood Bank Management System
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -60,8 +60,8 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ShyamSundaraChary/RTP-Blood-Bank-Management.git
-   cd RTP-Blood-Bank-Management
+   git clone https://github.com/ShyamSundaraChary/Blood-Bank-Management.git
+   cd Blood-Bank-Management
    ```
 
 2. **Database Setup**
@@ -83,14 +83,14 @@
 
 4. **Launch Application**
    - Place files in your web server directory
-   - Access via `http://localhost/RTP-Blood-Bank-Management`
+   - Access via `http://localhost/Blood-Bank-Management`
 
 ---
 
 ## 📁 Project Structure
 
 ```
-RTP-Blood-Bank-Management/
+Blood-Bank-Management/
 ├── 📄 Home.php              # Landing page
 ├── 📄 about.php             # About us page
 ├── 📄 contact.php           # Contact form
@@ -207,18 +207,6 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📋 Future Enhancements
-
-- [ ] 📧 Email notification system
-- [ ] 📱 Mobile application (Android/iOS)
-- [ ] 🔔 SMS alert integration
-- [ ] 📊 Advanced analytics dashboard
-- [ ] 🌍 Multi-language support
-- [ ] 🩺 Medical history integration
-- [ ] 🚨 Emergency alert system
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -230,8 +218,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Need help? We're here for you!
 
 - 📧 **Email**: [shyamsundarachary@email.com](mailto:shyamsundarachary@email.com)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/ShyamSundaraChary/RTP-Blood-Bank-Management/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/ShyamSundaraChary/RTP-Blood-Bank-Management/discussions)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/ShyamSundaraChary/Blood-Bank-Management/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/ShyamSundaraChary/Blood-Bank-Management/discussions)
 
 ---
 
@@ -239,11 +227,11 @@ Need help? We're here for you!
   <h3>🌟 Star this repository if you found it helpful! 🌟</h3>
   <p>Made with ❤️ for the community</p>
   
-  <a href="https://github.com/ShyamSundaraChary/RTP-Blood-Bank-Management">
-    <img src="https://img.shields.io/github/stars/ShyamSundaraChary/RTP-Blood-Bank-Management?style=social" alt="GitHub stars">
+  <a href="https://github.com/ShyamSundaraChary/Blood-Bank-Management">
+    <img src="https://img.shields.io/github/stars/ShyamSundaraChary/Blood-Bank-Management?style=social" alt="GitHub stars">
   </a>
   <a href="https://github.com/ShyamSundaraChary/RTP-Blood-Bank-Management/fork">
-    <img src="https://img.shields.io/github/forks/ShyamSundaraChary/RTP-Blood-Bank-Management?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/ShyamSundaraChary/Blood-Bank-Management?style=social" alt="GitHub forks">
   </a>
 </div>
 
