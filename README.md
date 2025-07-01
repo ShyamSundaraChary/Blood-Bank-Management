@@ -111,14 +111,6 @@ RTP-Blood-Bank-Management/
 
 ---
 
-## 🎨 Screenshots
-
-<div align="center">
-  <img src="images/dashboard-preview.png" alt="Dashboard" width="45%">
-  <img src="images/donor-search.png" alt="Donor Search" width="45%">
-</div>
-
----
 
 ## 🛠️ Technologies Used
 
